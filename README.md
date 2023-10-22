@@ -1,32 +1,39 @@
-# Hi, I am Dima
+# Here is the overviow about projects:
 
-## About Me
+## [A/B test project](https://github.com/dmitry-chuprak/Portfolio/blob/main/AB_test_project.ipynb)
 
-Hey! 👋 I'm the data analyst who's all about finding stories in numbers
+Overview: 
+* new recommendation system is launched. The purpose is to check if there is a positive effect using A-B testing
 
-I've previously gained a wealth of experience in finance, but then gained data analyst knowledged and now I ride new path.
+Result: 
+* Huge Data Preprocessing and Exploratory Analysis was made
+* AB test (using ztest) showed that new recommendation system did not fly well
 
-## What You'll Find Here
+## [Analysis of eBash application](https://github.com/dmitry-chuprak/Portfolio/blob/main/Analysis_of_App_eBash.ipynb)
 
-### 1. Python Projects
-[App data analyses](https://github.com/dmitry-chuprak/Portfolio/blob/main/Analysis_of_App_eBash.ipynb), 
-[Gaming market research](https://github.com/dmitry-chuprak/Portfolio/blob/main/Gaming_market_analysis.ipynb) made in Python scripts and Jupyter notebooks
+Overview:
+* We have an app like eBay with buy/sell ads
+* Purpose is to divide users into groups, analyze their sessions and give recommendations where to develop the app
 
+Result:
+* Groups were divided by 1st session duration, after that cohort analysis was made
+* Shortest and longest sessions showed the best retention. Average sessions (2-30 min) show the weakest retention and conversion
+* Should make additional deepdive in these users
+* Checked 2 hypotheses about impact of attraction Source (Yandex vs Google) and impact of ad photo show. In both cases there was no statistical difference
 
-### 2. SQL Queries
-Here some of my fancy scripts in SQL
+## [Gaming market overview](https://github.com/dmitry-chuprak/Portfolio/blob/main/Gaming_market_analysis.ipynb)
 
+Overview:
+* We work in e-shop which sells games across the world
+* Objective is to analyze gaming market data (1980 - 2016) and give recommendations for 2017 forecast
 
-### 3. A/B Testing
-Check of [New recommendation system lanch](https://github.com/dmitry-chuprak/Portfolio/blob/main/AB_test_project.ipynb)
+Result:
+* Gaming market is declining so 2017 should be not higher that 2015-16
+* Forecast should include different market specics
+    * North America and Europe: Xbox and PS platforms, Shooters and Sports genres are favorable
+    * Japan: Nintendo and PS platforms, Role playing and Action genres are favorable
+* Check 2 hypotheses: `Xbox` and `PS` platforms have similar scores (no stat diff), `Action` and `Sport` genres have different scores
 
+## [SQL]()
 
-### 4. Tableau Visualizations
-Numbers are cool, but pictures are even cooler (see in App data analyses)
-
-
-## How to Reach Me
-
-[LinkedIn](https://www.linkedin.com/in/chuprak/)
-
-Thanks for stopping by! 🏍️
+* various request using window functions, subrequest
