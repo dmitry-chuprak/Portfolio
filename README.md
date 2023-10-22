@@ -4,7 +4,7 @@
 
 Hey! 👋 I'm the data analyst who's all about finding stories in numbers
 
-I've previously gained a wealth of experience in finance, but then gained data analyst knowledged and chose the new path.
+I've previously gained a wealth of experience in finance, but then gained data analyst knowledged and now I ride new path.
 
 ## What You'll Find Here
 
