@@ -1,4 +1,4 @@
-# Here is the overviow about projects:
+# My projects and results:
 
 ## [A/B test project](https://github.com/dmitry-chuprak/Portfolio/blob/main/AB_test_project.ipynb)
 
@@ -33,7 +33,3 @@ Result:
     * North America and Europe: Xbox and PS platforms, Shooters and Sports genres are favorable
     * Japan: Nintendo and PS platforms, Role playing and Action genres are favorable
 * Check 2 hypotheses: `Xbox` and `PS` platforms have similar scores (no stat diff), `Action` and `Sport` genres have different scores
-
-## [SQL]()
-
-* various request using window functions, subrequest
